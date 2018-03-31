@@ -42,9 +42,10 @@ footer {
 }
 
 .navBar {
-    background-color: #fff;
-    height: 50px;
-    margin-bottom: 2em;
+    background-color: #007fc1;
+    height: 58px;
+    margin-bottom: 2.6em;
+    color: #f1f1f1;
     h1 {
         font-size: 24px;
     }
@@ -87,6 +88,7 @@ footer {
         border-radius: 4px 4px 0 0;
     }
     &__name {
+        color: #005380;
         h1 {
             font-size: 22px;
         }
